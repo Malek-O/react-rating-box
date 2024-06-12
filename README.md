@@ -1,14 +1,17 @@
-# React rating component
+# React rating box
 
 The React Rating Box is a customizable TailwindCSS-based component designed to display ratings interactively. It evaluates three criteria: Good, Normal, and Bad. This versatile component is perfect for various applications, such as product reviews, feedback forms, and interactive rating systems.
 
+[Demo]([doc:linking-to-pages#anchor-links](https://react-rating-box.netlify.app/))
+
 ## Installation
 
-Use the package manager npm .
+Use the package manager npm.
 
 ```bash
-npm install react-rating-component
+npm i react-rating-box
 ```
+![Desktop 2024 06 12 - 16 16 02 02](https://github.com/Malek-O/react-rating-box/assets/116006550/f1f56bd4-c883-4d63-b71f-bfe5f0d6dd16)
 
 ## Basic Usage
 
@@ -51,11 +54,11 @@ export default App
 
 ## RatingWrapper Props
 
-| Name          | type     | info                                                                                                                              |
-| ------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| ``rating``    | number   | this is required filed, can accept from 1 to 5 in order to display the rating boxes                                                            |
-| ``className`` | string   | optional, you can add tailwind classes                                                                                            |
-| ``onRating``  | function | it will return the rating value once the box is clicked                                                                           |
+| Name          | type     | info                                                                                                                               |
+| ------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| ``rating``    | number   | this is required filed, can accept from 1 to 5 in order to display the rating boxes                                                |
+| ``className`` | string   | optional, you can add tailwind classes                                                                                             |
+| ``onRating``  | function | it will return the rating value once the box is clicked                                                                            |
 | ``theme``     | object   | this is required object should take 4 properties base,bad,noraml and good, you can follow the structure as specifed in basic usage |
 
 
