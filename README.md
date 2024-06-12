@@ -7,7 +7,7 @@ The React Rating Box is a customizable TailwindCSS-based component designed to d
 Use the package manager npm .
 
 ```bash
-npm install react-rating-component
+npm i react-rating-box
 ```
 ![Desktop 2024 06 12 - 16 16 02 02](https://github.com/Malek-O/react-rating-box/assets/116006550/f1f56bd4-c883-4d63-b71f-bfe5f0d6dd16)
 
