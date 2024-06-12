@@ -1,10 +1,12 @@
-# React rating box
+# React rating box ✨
 
 The React Rating Box is a customizable TailwindCSS-based component designed to display ratings interactively. It evaluates three criteria: Good, Normal, and Bad. This versatile component is perfect for various applications, such as product reviews, feedback forms, and interactive rating systems.
 
 [Demo](https://react-rating-box.netlify.app/)
 
-## Installation
+## Note  📢
+This package depeneds on TailwindCSS classes you must install first through [Tailwind Docs](https://tailwindcss.com/docs/guides/vite) for vite
+## Installation 🛠️
 
 Use the package manager npm.
 
