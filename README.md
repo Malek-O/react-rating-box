@@ -2,7 +2,7 @@
 
 The React Rating Box is a customizable TailwindCSS-based component designed to display ratings interactively. It evaluates three criteria: Good, Normal, and Bad. This versatile component is perfect for various applications, such as product reviews, feedback forms, and interactive rating systems.
 
-[Demo]([doc:linking-to-pages#anchor-links](https://react-rating-box.netlify.app/))
+[Demo](https://react-rating-box.netlify.app/)
 
 ## Installation
 
